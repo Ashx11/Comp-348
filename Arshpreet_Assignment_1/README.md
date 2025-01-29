@@ -74,4 +74,4 @@ Example:
 - **Debugging**: Use tools like `gdb` or `valgrind` for troubleshooting.
 
 ## Author
-- **Kirubel**
+- **Arshpreet Singh**
